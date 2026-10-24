@@ -1,5 +1,5 @@
 # Instruction-to-Reinforcement-Learning
-# Reinforcement Learning: Q-Learning, SARSA, and Policy Iteration
+ Q-Learning, SARSA, and Policy Iteration
 
 This repository contains two Jupyter notebooks I wrote for a reinforcement learning assignment. Both notebooks implement classical RL methods from scratch and analyze the results carefully. The first notebook trains Q-Learning and SARSA agents on the Taxi-v4 environment and compares them under two exploration schedules. The second notebook solves the Jack's Car Rental MDP problem using policy iteration, in a setting where both transitions and rewards are stochastic.
 
